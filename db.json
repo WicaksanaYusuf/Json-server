@@ -2,10 +2,31 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "Ini title 1",
+	"body" : "Ini body 1"
+      },
+      {
+        "id": 2,
+        "title": "Ini title 2",
+	"body" : "Ini body 2"
+      },
+	{
+        "id": 3,
+        "title": "Ini title 3",
+	"body" : "Ini body 3"
+      },
+{
+        "id": 4,
+        "title": "Ini title 4",
+	"body" : "Ini body 4"
+      },
+{
+        "id": 5,
+        "title": "Ini title 5",
+	"body" : "Ini body 5"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "Yusuf Eka Wicaksana"
     }
   }
